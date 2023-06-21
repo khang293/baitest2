@@ -1,5 +1,5 @@
-# baitest2
-# Hinh anh san pham
+#baitest2
+#Hinh anh san pham
 ![z4452513219628_2ee74e6f0975c9448d6af1655b4f6cc5](https://github.com/khang293/baitest2/assets/92518504/98b23fdc-b587-4b5d-8a1d-76c8ae265575)
 ![z4452513222336_511e4c401b642fcbc49fa9e82ed92038](https://github.com/khang293/baitest2/assets/92518504/52aa2c5f-b8dc-4cd0-8039-193ece14cf26)
 ![z4452513225804_0cda2ff9f62e995d9d7577bb6f6a60f5](https://github.com/khang293/baitest2/assets/92518504/395d92f4-0129-4cae-8f4c-f3264cb17a0e)
